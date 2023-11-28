@@ -1,1 +1,6 @@
 c:\users\sathis\documents\visual studio 2012\Projects\git 2\git 2\bin\Debug\git 2.exe.config
+c:\users\sathis\documents\visual studio 2012\Projects\git 2\git 2\obj\Debug\git 2.csprojResolveAssemblyReference.cache
+c:\users\sathis\documents\visual studio 2012\Projects\git 2\git 2\bin\Debug\git 2.exe
+c:\users\sathis\documents\visual studio 2012\Projects\git 2\git 2\bin\Debug\git 2.pdb
+c:\users\sathis\documents\visual studio 2012\Projects\git 2\git 2\obj\Debug\git 2.exe
+c:\users\sathis\documents\visual studio 2012\Projects\git 2\git 2\obj\Debug\git 2.pdb
