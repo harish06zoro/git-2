@@ -268,21 +268,21 @@ namespace git_2
             {
                 if (firstdif>seconddif)
                 {
-                    Console.WriteLine("the second and third are close each other");
+                    Console.WriteLine("the second and third are farther each other");
                 }
                 else  if(seconddif<thirddif)
 
                 {
                     if (seconddif>thirddif)
                     {
-                        Console.WriteLine("the first and third values are close to each other");
+                        Console.WriteLine("the first and third values are farther to each other");
                     }
                 }
                 else
                 {
                     if(firstdif<thirddif)
                     {
-                        Console.WriteLine(" the first and second value are close to each other" );
+                        Console.WriteLine(" the first and second value are farther to each other" );
                     }
                 }
             }
